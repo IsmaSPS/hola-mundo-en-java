@@ -3,3 +3,10 @@ public class HolaMundo{
 		System.out.println("Hola Mundo!");
 	}
 }
+
+/**
+* Muestra por pantalla "Hola Mundo"
+*
+* @author Ismael
+*
+*/
